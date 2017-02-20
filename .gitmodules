@@ -2,3 +2,8 @@
 	path = pybind11
 	url = https://github.com/pybind/pybind11.git
 	branch = master
+
+[submodule "args"]
+	path = args
+	url = https://github.com/taywee/args.git
+	branch = master
